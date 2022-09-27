@@ -1,0 +1,16 @@
+{
+    "package":"msg_def",
+    "messages":[
+        {
+            "name":"MyVVVV",
+            "about":"这个MyVVVV的注释",
+            "fields":[
+                {
+                    "name":"X",
+                    "type":"float32"
+                }
+            ]
+        }
+    ]
+
+}

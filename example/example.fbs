@@ -1,0 +1,14 @@
+// example IDL file
+// 实例：http://google.github.io/flatbuffers/md__go_usage.html
+namespace example;
+ 
+attribute "priority";
+
+table   VVV {
+  x:float;
+  y:float;
+  z:float;
+}
+
+// root_type可以多个
+root_type VVV;

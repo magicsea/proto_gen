@@ -1,0 +1,9 @@
+package DProto;
+
+message RepeatedString{
+	repeated string IDList = 1;	//IDList
+}
+
+message RepeatedUInt32{
+	repeated uint32 IDList = 1;
+}
